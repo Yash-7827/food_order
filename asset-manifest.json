@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/food_order/static/css/main.f35d61ee.css",
+    "main.js": "/food_order/static/js/main.0e595e5d.js",
+    "static/js/787.9da6907c.chunk.js": "/food_order/static/js/787.9da6907c.chunk.js",
+    "static/media/meals.jpg": "/food_order/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/food_order/index.html",
+    "main.f35d61ee.css.map": "/food_order/static/css/main.f35d61ee.css.map",
+    "main.0e595e5d.js.map": "/food_order/static/js/main.0e595e5d.js.map",
+    "787.9da6907c.chunk.js.map": "/food_order/static/js/787.9da6907c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f35d61ee.css",
+    "static/js/main.0e595e5d.js"
+  ]
+}
