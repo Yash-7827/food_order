@@ -1,10 +1,5 @@
 {
-<<<<<<< HEAD
-  "homepage": "https://Yash-7827.github.io/food_order",
-=======
-  "homepage": "https://Yash-7827.github.io/food_order"
->>>>>>> c48c3eacdd59ec9ff7c5a97aff4f33ef9bac7672
-  "name": "food_order",
+ "name": "food_order",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,8 +12,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
