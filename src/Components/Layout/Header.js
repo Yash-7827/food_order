@@ -6,7 +6,7 @@ const Header = (props) => {
     return(
         <React.Fragment>
             <header className={classes.header}>
-                <h1>ReactMeals</h1>
+                <h1>Food Feast</h1>
                 <HeaderCartButton onCartShow={props.onCartShow}/>
             </header>
             <div className={classes['main-image']}>
